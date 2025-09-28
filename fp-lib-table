@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "TCAN_Library")(type "KiCad")(uri "${KIPRJMOD}/libs/TCAN_Library/TCAN_Library.pretty")(options "")(descr ""))
+)
